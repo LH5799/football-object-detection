@@ -16,7 +16,7 @@ Hierzu wurden zuvor hunderte Bilder aus einer Großzahl von verschiedenen Spiele
 ## Projektstruktur
 ```text
 football-object-detection/
-├── player_detection/                # Code für die Ausführung
+├── player_detection.py                # Code für die Ausführung
 ├── frames/                          # Originalbilder
 ├── player_detection_results/        # Ergebnisbilder
 ├── README.md
